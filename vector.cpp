@@ -2,7 +2,7 @@
 	   Vector is the sequence container where we can add and delete the elements at back
 	   vector is dynamic array the size of vector gets changes automatically as the elements are added
 	   or elements are deleted from vector.
-	   Vector added the element in the contigous memory location.
+	   Vector added the element in the non contigous memory location.
 	   to implement the vector u need to include header file vector.
 	   
 	    
